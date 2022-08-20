@@ -8,6 +8,7 @@ c. An unordered list inside of an ordered list, of places you’d like to visit 
 d. An ordered list inside of an unordered list, of your all time top 5 favorite video
 games or movies
 3. Assignment(Links & Images):
+
 a. Create a new directory named links-and-images
 b. Within that directory, create a new file named index.html
 c. Fill in the usual HTML boilerplate
