@@ -54,6 +54,8 @@ its glory. Remember to use ./ before the images/first-img.jpg if your
 image isn’t loading
 l. As a bit of practice, add an alt attribute to the first-img you added to the
 links-and-images project.
+
+
 4. Assignment(Main HTML project): For presentation make a few page presentation
 website about your hobby/favorite books/movies etc. Your website should contain a
 homepage with a link to go inside to the page where your material should be presented
